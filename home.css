@@ -1,0 +1,35 @@
+
+.timetable{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+     'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.table,th,td{
+    border: 2px solid rgb(238, 149, 149);
+    border-collapse: collapse;
+    text-align: center;
+    vertical-align: bottom;
+    
+}
+
+.table{
+    width: 100%
+}
+
+th{
+height: 60px;
+vertical-align: bottom;
+padding-bottom: 10px;
+}
+
+li{
+    display: inline;
+}
+
+tr:hover{
+    background-color: red;
+}
+
+
+
